@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "238793520961",
+    "project_id": "foodegaapp-7f097",
+    "storage_bucket": "foodegaapp-7f097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238793520961:android:fd269bc46e25c97ac5d3c0",
+        "android_client_info": {
+          "package_name": "com.example.foodegaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238793520961-t3gt1p7rbf7o6eaue5il3qe0uj0klss6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHI5j7I6J-bNhjcK0B5AcHEM93qUfQ8jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238793520961-t3gt1p7rbf7o6eaue5il3qe0uj0klss6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238793520961-gcfl8qshr58vo28tc22u9kts3748n5dp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodegaapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
